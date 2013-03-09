@@ -1,4 +1,4 @@
 sandbox
 =======
 
-prototype
+a set of prototypes for various components
